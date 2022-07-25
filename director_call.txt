@@ -1,0 +1,45 @@
+Cloud ops Engineer in Windows and Linux Administration, Configuration Management, Continuous
+Integration, Continuous Deployment and Cloud Implementations.
+Hands on experience in Azure Development, worked on Azure web application, App services, Azure storage,
+Virtual machines, Azure AD and Azure search.
+ Good at Manage hosting plans for Azure Infrastructure, implementing &amp; deploying workloads on Azure
+virtual machines (VMs).
+ Providing Access (IAM) to the users on Subscription and individual resources.
+ Experience on Azure PAAS services, managed few PAAS services like Web Apps, Azure SQL DB, Service
+bus, Traffic manager etc.
+****Automation of build process CI/CD pipelines using Azure DevOps, MS-Build, Azure Artifacts, GitHub,
+PowerShell DSC, SonarQube and Docker, Kubernetes.
+ Extensive experience in Azure Storage. Managed Blob storage &amp; Table storage with access keys in some of
+the web applications.
+ Manage different AZURE environment for provisioning of windows Linux servers and services executed by
+the providers.
+ Gather, review, and validate network requirements, VNETs, and network security groups.
+ Involved with planning, designing, and transforming environments from on-premises to cloud-based.
+ Work as Cloud Administrator on Microsoft Azure, involved in configuring virtual machines, storage accounts,
+resource groups.
+ Experience in managing infrastructure resources in cloud architecture with close coordination with various
+functional teams.
+ Experience in dealing with Windows Azure IaaS - Virtual Networks, Virtual Machines, Cloud Services,
+Resource Groups, VPN, Load Balancing and Auto-Scaling.
+ Experience in developing and maintaining build, deployment scripts for test, staging and production
+environment using AZURE automation tools.
+ Good experience in Azure automation using PowerShell, Azure Terraform and DSC configuration.
+ Experience with Atlassian workflow tools Jira, Service Now, and BMC Remedy.
+ Experienced in Project Strategy, Planning and execution in time.
+ Application automation software like PowerShell and Bash.
+ Experience in automating day-to-day activities by using Windows PowerShell and Azure CLI 2.0.
+
+ Deploying the Virtual Machines with the Microsoft Monitoring Agent/Operational Management Suite (OMS)
+Extension using the PowerShell Scripts.
+ Monitored OMS Log Analytics in Azure Security Centre for troubleshooting the Compute, Storage,
+Networking and Applications.
+ Worked on integrating virtual machines into OMS by deploying OMS agent.
+ Used Microsoft Azure storage accounts, Log Analytics, Logic Apps, and Azure Automation Runbook
+Account.
+ Created Automated Scripts for Azure Monitor to get the alerts for Activity logs.
+ Troubleshoot Azure related issues engage internal teams and vendor for issue resolutions.
+ Azure Active directory based provide user and group level permission &amp; Application ID creation.
+ Creating Storage account and managing disk add &amp; remove.
+rules for the Virtual Machine.
+ Experience in using Bug Tracking tools like JIRA and Azure Boards.
+ 
